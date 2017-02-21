@@ -5,4 +5,13 @@ D APA102C Smart LED
 K Smart LED
 $ENDCMP
 #
+$CMP FDC606P
+D P-Channel 1.8V MOSFET
+K Dual P-Channel MOSFET
+$ENDCMP
+#
+$CMP LPS22HB
+K HLGA-10L
+$ENDCMP
+#
 #End Doc Library
