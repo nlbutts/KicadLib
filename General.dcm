@@ -14,4 +14,8 @@ $CMP LPS22HB
 K HLGA-10L
 $ENDCMP
 #
+$CMP TPS735
+D 500mA adjustable regulator
+$ENDCMP
+#
 #End Doc Library
