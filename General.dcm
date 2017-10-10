@@ -1,26 +1,3 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP APA102C
-D APA102C Smart LED
-K Smart LED
-$ENDCMP
-#
-$CMP CY8C4A25LQI-473
-D Cypress PSoC CY8C4A25LQI-473
-K PSOC
-$ENDCMP
-#
-$CMP FDC606P
-D P-Channel 1.8V MOSFET
-K Dual P-Channel MOSFET
-$ENDCMP
-#
-$CMP LPS22HB
-K HLGA-10L
-$ENDCMP
-#
-$CMP TPS735
-D 500mA adjustable regulator
-$ENDCMP
-#
 #End Doc Library
