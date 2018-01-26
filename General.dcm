@@ -1,5 +1,16 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP CYBLE-2120XX
+D Cypress PRoC BLE device 
+K BLE PSOC PROC
+F http://www.cypress.com/documentation/datasheets/cyble-212019-00cyble-212023-10-ez-bletm-proctm-module
+$ENDCMP
+#
+$CMP ICM-20602
+D Invensense ICM-20602 3-axis accelerometer and gyro
+K accelerometer gyro
+$ENDCMP
+#
 $CMP LSM6DSM
 D iNEMO inertial module
 K accelerometer gyroscope inertial
