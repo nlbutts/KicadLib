@@ -1,0 +1,11 @@
+(module 3_pin_0.1inch_pin_header (layer F.Cu) (tedit 5852E734)
+  (fp_text reference REF** (at 0 4.8) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value "3M Pin Strip Header 0.1inch" (at 0 -4.1) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad 3 smd rect (at 5.08 -1.8) (size 1.27 3.6) (layers F.Cu F.Paste F.Mask))
+  (pad 2 smd rect (at 2.54 1.8) (size 1.27 3.6) (layers F.Cu F.Paste F.Mask))
+  (pad 1 smd rect (at 0 -1.8) (size 1.27 3.6) (layers F.Cu F.Paste F.Mask))
+)
